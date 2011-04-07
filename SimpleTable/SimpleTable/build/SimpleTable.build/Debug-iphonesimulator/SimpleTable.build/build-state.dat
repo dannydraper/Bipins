@@ -1,0 +1,278 @@
+TSimpleTable
+v7
+r0
+t323847403.500585
+cCheck dependencies
+cProcessInfoPlistFile /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/Info.plist SimpleTable-Info.plist
+cCompileXIB /Users/ddraper/Documents/SimpleTable/SimpleTable/MainWindow.xib
+cCompileXIB /Users/ddraper/Documents/SimpleTable/SimpleTable/SimpleTableViewController.xib
+cCpResource build/Debug-iphonesimulator/SimpleTable.app/Masala.png Masala.png
+cProcessPCH /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTable_Prefix-ghknmdhatzhtkzeejezhbkwfboxf/SimpleTable_Prefix.pch.gch SimpleTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/main.o /Users/ddraper/Documents/SimpleTable/SimpleTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTableAppDelegate.o /Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTableViewController.o /Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable normal i386
+cGenerateDSYMFile /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app.dSYM /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable
+cTouch /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CEAD01A0000000000000110
+t1290457114
+s272
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableAppDelegate.h
+c000000004D82719700000000000001F5
+t1300394391
+s501
+i<UIKit/UIKit.h>
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableAppDelegate.m
+c000000004D8271970000000000000AA7
+t1300394391
+s2727
+i"SimpleTableAppDelegate.h"
+i"SimpleTableViewController.h"
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.h
+c000000004D86654800000000000001E3
+t1300653384
+s483
+i<UIKit/UIKit.h>
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m
+c000000004D8665620000000000000AE7
+t1300653410
+s2791
+i"SimpleTableViewController.h"
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/MainWindow.xib
+c000000004D8271970000000000004E59
+t1300394391
+s20057
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/Masala.png
+c000000004D85299500000000000039D8
+t1300572565
+s14808
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/SimpleTableViewController.xib
+c000000004D8273C50000000000004679
+t1300394949
+s18041
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/SimpleTable_Prefix.pch
+c000000004D82719700000000000000BF
+t1300394391
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app
+t1300653417
+s272
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app.dSYM
+t1300653417
+s102
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/Info.plist
+t1300395940
+s607
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/MainWindow.nib
+t1300395941
+s1131
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/Masala.png
+t1300572658
+s14808
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/PkgInfo
+t1300395940
+s8
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable
+t1300653417
+s23352
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTableViewController.nib
+t1300395941
+s1169
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTable.LinkFileList
+c000000004D8277A400000000000001CB
+t1300395940
+s459
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTableAppDelegate.o
+t1300653417
+s51232
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTableViewController.o
+t1300653417
+s51896
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/main.o
+t1300395942
+s6332
+
+N/Users/ddraper/Documents/SimpleTable/SimpleTable/main.m
+c000000004D827197000000000000016B
+t1300394391
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTable_Prefix-ghknmdhatzhtkzeejezhbkwfboxf/SimpleTable_Prefix.pch.gch
+t1300395942
+s15453392
+
+NSimpleTable-Info.plist
+c000000004D827197000000000000038D
+t1300394391
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323847402#323847403#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTableAppDelegate.o /Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322346217.484441
+e322346217.599299
+r1
+xCompileC
+xbuild/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTableAppDelegate.o
+x/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableAppDelegate.m322346217#322346217#0(0"0(0#0#81"/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableAppDelegate.m8614645600#2156"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-generated-files.hmap -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-own-target-headers.hmap -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-all-target-headers.hmap -iquote /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-project-headers.hmap -F/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/include -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/DerivedSources/i386 -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/DerivedSources -include /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTable_Prefix-ghknmdhatzhtkzeejezhbkwfboxf/SimpleTable_Prefix.pch -c /Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableAppDelegate.m -o /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTableAppDelegate.o0#
+
+CCompileC build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTableViewController.o /Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322346217.485400
+e322346217.609944
+r1
+xCompileC
+xbuild/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTableViewController.o
+x/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m: In function '-[SimpleTableViewController tableView:cellForRowAtIndexPath:]':
+o/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m:94: warning: 'setText:' is deprecated (declared at /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m:96: warning: 'setImage:' is deprecated (declared at /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@92"Compile /Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m322346217#322346217#0(754"/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m: In function '-[SimpleTableViewController tableView:cellForRowAtIndexPath:]':/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m:94: warning: 'setText:' is deprecated (declared at /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m:96: warning: 'setImage:' is deprecated (declared at /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)2(22@196"'setText:' is deprecated (declared at /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)322346217#163#295#0(6@84"/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m322346210#94#0#94#0#33"'*' is deprecated (declared at *)0(22@197"'setImage:' is deprecated (declared at /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)322346217#458#296#0(6@84"/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m322346210#96#0#96#0#33"'*' is deprecated (declared at *)0(0#0#84"/Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m8614183072#2162"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-generated-files.hmap -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-own-target-headers.hmap -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-all-target-headers.hmap -iquote /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-project-headers.hmap -F/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/include -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/DerivedSources/i386 -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/DerivedSources -include /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTable_Prefix-ghknmdhatzhtkzeejezhbkwfboxf/SimpleTable_Prefix.pch -c /Users/ddraper/Documents/SimpleTable/SimpleTable/Classes/SimpleTableViewController.m -o /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTableViewController.o0#
+
+CCompileC build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/main.o /Users/ddraper/Documents/SimpleTable/SimpleTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322088742.516523
+e322088742.691228
+r1
+xCompileC
+xbuild/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/main.o
+x/Users/ddraper/Documents/SimpleTable/SimpleTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/ddraper/Documents/SimpleTable/SimpleTable/main.m322088742#322088742#0(0"0(0#0#55"/Users/ddraper/Documents/SimpleTable/SimpleTable/main.m8612274368#2112"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-generated-files.hmap -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-own-target-headers.hmap -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-all-target-headers.hmap -iquote /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-project-headers.hmap -F/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/include -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/DerivedSources/i386 -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/DerivedSources -include /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTable_Prefix-ghknmdhatzhtkzeejezhbkwfboxf/SimpleTable_Prefix.pch -c /Users/ddraper/Documents/SimpleTable/SimpleTable/main.m -o /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ddraper/Documents/SimpleTable/SimpleTable/MainWindow.xib
+s322088740.816031
+e322088741.383761
+r1
+xCompileXIB
+x/Users/ddraper/Documents/SimpleTable/SimpleTable/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322088740#322088741#0(0"0(0#0#63"/Users/ddraper/Documents/SimpleTable/SimpleTable/MainWindow.xib8612708384#612"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/MainWindow.nib /Users/ddraper/Documents/SimpleTable/SimpleTable/MainWindow.xib --sdk /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ddraper/Documents/SimpleTable/SimpleTable/SimpleTableViewController.xib
+s322088740.867833
+e322088741.383923
+r1
+xCompileXIB
+x/Users/ddraper/Documents/SimpleTable/SimpleTable/SimpleTableViewController.xib
+lSLF07#2@40"CompileXIB SimpleTableViewController.xib322088740#322088741#0(0"0(0#0#78"/Users/ddraper/Documents/SimpleTable/SimpleTable/SimpleTableViewController.xib8612570752#642"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTableViewController.nib /Users/ddraper/Documents/SimpleTable/SimpleTable/SimpleTableViewController.xib --sdk /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SimpleTable.app/Masala.png Masala.png
+s322265458.006029
+e322265458.063131
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SimpleTable.app/Masala.png
+xMasala.png
+lSLF07#2@15"Copy Masala.png322265458#322265458#0(0"0(0#0#59"/Users/ddraper/Documents/SimpleTable/SimpleTable/Masala.png21673775077523568#508"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ddraper/Documents/SimpleTable/SimpleTable/Masala.png /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app0#
+
+CGenerateDSYMFile /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app.dSYM /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable
+s322346217.636588
+e322346217.665606
+r1
+xGenerateDSYMFile
+x/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app.dSYM
+x/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/SimpleTable.app.dSYM build/Debug-iphonesimulator/SimpleTable.app/SimpleTable322346217#322346217#0(0"0(0#0#104"/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable8602477440#431"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/usr/bin/dsymutil /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable -o /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app.dSYM0#
+
+CLd /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable normal i386
+s322346217.610040
+e322346217.636483
+r1
+xLd
+x/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable
+xnormal
+xi386
+lSLF07#2@109"Link /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable322346217#322346217#0(0"0(0#0#0"8613655808#978"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator -F/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator -filelist /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/Objects-normal/i386/SimpleTable.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/SimpleTable0#
+
+CProcessInfoPlistFile /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/Info.plist SimpleTable-Info.plist
+s322088740.784208
+e322088740.815931
+r1
+xProcessInfoPlistFile
+x/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/Info.plist
+xSimpleTable-Info.plist
+lSLF07#2@30"Process SimpleTable-Info.plist322088740#322088740#0(0"0(0#0#71"/Users/ddraper/Documents/SimpleTable/SimpleTable/SimpleTable-Info.plist30399718397902932#525"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleTable-Info.plist -genpkginfo /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app/Info.plist0#
+
+CProcessPCH /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTable_Prefix-ghknmdhatzhtkzeejezhbkwfboxf/SimpleTable_Prefix.pch.gch SimpleTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322088741.384067
+e322088742.516292
+r1
+xProcessPCH
+x/var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTable_Prefix-ghknmdhatzhtkzeejezhbkwfboxf/SimpleTable_Prefix.pch.gch
+xSimpleTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SimpleTable_Prefix.pch322088741#322088742#0(0"0(0#0#71"/Users/ddraper/Documents/SimpleTable/SimpleTable/SimpleTable_Prefix.pch8612551456#1990"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-generated-files.hmap -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-own-target-headers.hmap -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-all-target-headers.hmap -iquote /Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/SimpleTable-project-headers.hmap -F/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/include -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/DerivedSources/i386 -I/Users/ddraper/Documents/SimpleTable/SimpleTable/build/SimpleTable.build/Debug-iphonesimulator/SimpleTable.build/DerivedSources -c /Users/ddraper/Documents/SimpleTable/SimpleTable/SimpleTable_Prefix.pch -o /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleTable_Prefix-ghknmdhatzhtkzeejezhbkwfboxf/SimpleTable_Prefix.pch.gch0#
+
+CTouch /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app
+s322346217.665694
+e322346217.668323
+r1
+xTouch
+x/Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app
+lSLF07#2@98"Touch /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app322346217#322346217#0(0"0(0#0#0"8618500608#306"    cd /Users/ddraper/Documents/SimpleTable/SimpleTable    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ddraper/Documents/SimpleTable/SimpleTable/build/Debug-iphonesimulator/SimpleTable.app0#
+

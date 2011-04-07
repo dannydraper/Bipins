@@ -1,0 +1,262 @@
+TTestNavBased
+v7
+r0
+t323209966.585368
+cCheck dependencies
+cProcessInfoPlistFile /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/Info.plist TestNavBased-Info.plist
+cCompileXIB /Users/ddraper/Documents/Nav/TestNavBased/MainWindow.xib
+cCompileXIB /Users/ddraper/Documents/Nav/TestNavBased/RootViewController.xib
+cProcessPCH /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavBased_Prefix-bnzwgapqeymtzfezjnizylnvfpfa/TestNavBased_Prefix.pch.gch TestNavBased_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/main.o /Users/ddraper/Documents/Nav/TestNavBased/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/TestNavBasedAppDelegate.o /Users/ddraper/Documents/Nav/TestNavBased/Classes/TestNavBasedAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/RootViewController.o /Users/ddraper/Documents/Nav/TestNavBased/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased normal i386
+cGenerateDSYMFile /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app.dSYM /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased
+cTouch /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CEAD01A0000000000000110
+t1290457114
+s272
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/ddraper/Documents/Nav/TestNavBased/Classes/RootViewController.h
+c000000004D9392C800000000000000EE
+t1301517000
+s238
+i<UIKit/UIKit.h>
+
+N/Users/ddraper/Documents/Nav/TestNavBased/Classes/RootViewController.m
+c000000004D9392C800000000000010C6
+t1301517000
+s4294
+i"RootViewController.h"
+
+N/Users/ddraper/Documents/Nav/TestNavBased/Classes/TestNavBasedAppDelegate.h
+c000000004D9392C800000000000001E0
+t1301517000
+s480
+i<UIKit/UIKit.h>
+
+N/Users/ddraper/Documents/Nav/TestNavBased/Classes/TestNavBasedAppDelegate.m
+c000000004D9392C80000000000000AB9
+t1301517000
+s2745
+i"TestNavBasedAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/ddraper/Documents/Nav/TestNavBased/MainWindow.xib
+c000000004D9392C80000000000006008
+t1301517000
+s24584
+
+N/Users/ddraper/Documents/Nav/TestNavBased/RootViewController.xib
+c000000004D9392C80000000000004457
+t1301517000
+s17495
+
+N/Users/ddraper/Documents/Nav/TestNavBased/TestNavBased_Prefix.pch
+c000000004D9392C8000000000000014A
+t1301517000
+s330
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app
+t1301517166
+s238
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app.dSYM
+t1301517166
+s102
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/Info.plist
+t1301517165
+s611
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/MainWindow.nib
+t1301517165
+s1514
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/PkgInfo
+t1301517165
+s8
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/RootViewController.nib
+t1301517165
+s979
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased
+t1301517166
+s18208
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/RootViewController.o
+t1301517166
+s41180
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/TestNavBased.LinkFileList
+c000000004D93936D00000000000001B6
+t1301517165
+s438
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/TestNavBasedAppDelegate.o
+t1301517166
+s52888
+
+N/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/main.o
+t1301517166
+s6316
+
+N/Users/ddraper/Documents/Nav/TestNavBased/main.m
+c000000004D9392C8000000000000016C
+t1301517000
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavBased_Prefix-bnzwgapqeymtzfezjnizylnvfpfa/TestNavBased_Prefix.pch.gch
+t1301517166
+s15453392
+
+NTestNavBased-Info.plist
+c000000004D9392C8000000000000038D
+t1301517000
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323209965#323209965#0(0"0(0#1#0"8621143136#0"0#
+
+CCompileC build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/RootViewController.o /Users/ddraper/Documents/Nav/TestNavBased/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323209966.454403
+e323209966.538616
+r1
+xCompileC
+xbuild/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/RootViewController.o
+x/Users/ddraper/Documents/Nav/TestNavBased/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/ddraper/Documents/Nav/TestNavBased/Classes/RootViewController.m323209966#323209966#0(0"0(0#0#70"/Users/ddraper/Documents/Nav/TestNavBased/Classes/RootViewController.m8620176672#2091"    cd /Users/ddraper/Documents/Nav/TestNavBased    setenv LANG en_US.US-ASCII    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-generated-files.hmap -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-own-target-headers.hmap -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-all-target-headers.hmap -iquote /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-project-headers.hmap -F/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator -I/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/include -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/DerivedSources/i386 -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/DerivedSources -include /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavBased_Prefix-bnzwgapqeymtzfezjnizylnvfpfa/TestNavBased_Prefix.pch -c /Users/ddraper/Documents/Nav/TestNavBased/Classes/RootViewController.m -o /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/TestNavBasedAppDelegate.o /Users/ddraper/Documents/Nav/TestNavBased/Classes/TestNavBasedAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323209966.391005
+e323209966.483659
+r1
+xCompileC
+xbuild/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/TestNavBasedAppDelegate.o
+x/Users/ddraper/Documents/Nav/TestNavBased/Classes/TestNavBasedAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/ddraper/Documents/Nav/TestNavBased/Classes/TestNavBasedAppDelegate.m323209966#323209966#0(0"0(0#0#75"/Users/ddraper/Documents/Nav/TestNavBased/Classes/TestNavBasedAppDelegate.m8620443104#2101"    cd /Users/ddraper/Documents/Nav/TestNavBased    setenv LANG en_US.US-ASCII    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-generated-files.hmap -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-own-target-headers.hmap -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-all-target-headers.hmap -iquote /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-project-headers.hmap -F/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator -I/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/include -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/DerivedSources/i386 -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/DerivedSources -include /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavBased_Prefix-bnzwgapqeymtzfezjnizylnvfpfa/TestNavBased_Prefix.pch -c /Users/ddraper/Documents/Nav/TestNavBased/Classes/TestNavBasedAppDelegate.m -o /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/TestNavBasedAppDelegate.o0#
+
+CCompileC build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/main.o /Users/ddraper/Documents/Nav/TestNavBased/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323209966.389981
+e323209966.454301
+r1
+xCompileC
+xbuild/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/main.o
+x/Users/ddraper/Documents/Nav/TestNavBased/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/ddraper/Documents/Nav/TestNavBased/main.m323209966#323209966#0(0"0(0#0#48"/Users/ddraper/Documents/Nav/TestNavBased/main.m8620629440#2055"    cd /Users/ddraper/Documents/Nav/TestNavBased    setenv LANG en_US.US-ASCII    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-generated-files.hmap -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-own-target-headers.hmap -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-all-target-headers.hmap -iquote /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-project-headers.hmap -F/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator -I/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/include -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/DerivedSources/i386 -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/DerivedSources -include /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavBased_Prefix-bnzwgapqeymtzfezjnizylnvfpfa/TestNavBased_Prefix.pch -c /Users/ddraper/Documents/Nav/TestNavBased/main.m -o /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ddraper/Documents/Nav/TestNavBased/MainWindow.xib
+s323209965.129056
+e323209965.593663
+r1
+xCompileXIB
+x/Users/ddraper/Documents/Nav/TestNavBased/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323209965#323209965#0(0"0(0#0#56"/Users/ddraper/Documents/Nav/TestNavBased/MainWindow.xib8616199008#592"    cd /Users/ddraper/Documents/Nav/TestNavBased    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/MainWindow.nib /Users/ddraper/Documents/Nav/TestNavBased/MainWindow.xib --sdk /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/ddraper/Documents/Nav/TestNavBased/RootViewController.xib
+s323209965.129845
+e323209965.600044
+r1
+xCompileXIB
+x/Users/ddraper/Documents/Nav/TestNavBased/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib323209965#323209965#0(0"0(0#0#64"/Users/ddraper/Documents/Nav/TestNavBased/RootViewController.xib8610056640#608"    cd /Users/ddraper/Documents/Nav/TestNavBased    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/RootViewController.nib /Users/ddraper/Documents/Nav/TestNavBased/RootViewController.xib --sdk /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app.dSYM /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased
+s323209966.564673
+e323209966.581342
+r1
+xGenerateDSYMFile
+x/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app.dSYM
+x/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/TestNavBased.app.dSYM build/Debug-iphonesimulator/TestNavBased.app/TestNavBased323209966#323209966#0(0"0(0#0#99"/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased8619139200#413"    cd /Users/ddraper/Documents/Nav/TestNavBased    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/usr/bin/dsymutil /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased -o /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app.dSYM0#
+
+CLd /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased normal i386
+s323209966.538708
+e323209966.564577
+r1
+xLd
+x/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased
+xnormal
+xi386
+lSLF07#2@104"Link /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased323209966#323209966#0(0"0(0#0#0"8620172160#948"    cd /Users/ddraper/Documents/Nav/TestNavBased    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator -F/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator -filelist /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/Objects-normal/i386/TestNavBased.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/TestNavBased0#
+
+CProcessInfoPlistFile /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/Info.plist TestNavBased-Info.plist
+s323209965.125352
+e323209965.128972
+r1
+xProcessInfoPlistFile
+x/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/Info.plist
+xTestNavBased-Info.plist
+lSLF07#2@31"Process TestNavBased-Info.plist323209965#323209965#0(0"0(0#0#65"/Users/ddraper/Documents/Nav/TestNavBased/TestNavBased-Info.plist8618926880#507"    cd /Users/ddraper/Documents/Nav/TestNavBased    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TestNavBased-Info.plist -genpkginfo /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app/Info.plist0#
+
+CProcessPCH /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavBased_Prefix-bnzwgapqeymtzfezjnizylnvfpfa/TestNavBased_Prefix.pch.gch TestNavBased_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323209965.600191
+e323209966.389870
+r1
+xProcessPCH
+x/var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavBased_Prefix-bnzwgapqeymtzfezjnizylnvfpfa/TestNavBased_Prefix.pch.gch
+xTestNavBased_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TestNavBased_Prefix.pch323209965#323209966#0(0"0(0#0#65"/Users/ddraper/Documents/Nav/TestNavBased/TestNavBased_Prefix.pch8621277120#1939"    cd /Users/ddraper/Documents/Nav/TestNavBased    setenv LANG en_US.US-ASCII    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer42/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-generated-files.hmap -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-own-target-headers.hmap -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-all-target-headers.hmap -iquote /Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/TestNavBased-project-headers.hmap -F/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator -I/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/include -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/DerivedSources/i386 -I/Users/ddraper/Documents/Nav/TestNavBased/build/TestNavBased.build/Debug-iphonesimulator/TestNavBased.build/DerivedSources -c /Users/ddraper/Documents/Nav/TestNavBased/TestNavBased_Prefix.pch -o /var/folders/nU/nUIwCFdTH4KVSbiRpp6WQk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestNavBased_Prefix-bnzwgapqeymtzfezjnizylnvfpfa/TestNavBased_Prefix.pch.gch0#
+
+CTouch /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app
+s323209966.581427
+e323209966.585327
+r1
+xTouch
+x/Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app
+lSLF07#2@92"Touch /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app323209966#323209966#0(0"0(0#0#0"8619079104#293"    cd /Users/ddraper/Documents/Nav/TestNavBased    setenv PATH "/Developer42/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer42/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ddraper/Documents/Nav/TestNavBased/build/Debug-iphonesimulator/TestNavBased.app0#
+
