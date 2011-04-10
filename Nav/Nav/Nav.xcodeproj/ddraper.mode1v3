@@ -328,7 +328,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>9BF7F1EC134C6F6A00C2A83E</string>
+										<string>9B4D32901350394500A8C76E</string>
 										<key>history</key>
 										<array>
 											<string>9BEB83A8134717AB00CA2388</string>
@@ -340,7 +340,7 @@
 											<string>9BF7F1E8134C6F6A00C2A83E</string>
 											<string>9BF7F1E9134C6F6A00C2A83E</string>
 											<string>9BF7F1EA134C6F6A00C2A83E</string>
-											<string>9BF7F1EB134C6F6A00C2A83E</string>
+											<string>9BF7F1EC134C6F6A00C2A83E</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -372,7 +372,7 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 1089}, {1001, 0}}</string>
+								<string>{{0, 632}, {1001, 0}}</string>
 								<key>RubberWindowFrame</key>
 								<string>9 143 1280 673 0 0 2560 1578 </string>
 							</dict>
@@ -398,9 +398,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>9BF7F1ED134C6F6A00C2A83E</string>
+				<string>9B4D32911350394500A8C76E</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>9BF7F1EE134C6F6A00C2A83E</string>
+				<string>9B4D32921350394500A8C76E</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -539,7 +539,7 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>9B1F678D133E66280088F1DB</string>
-		<string>/Users/ddraper/Documents/Nav/Nav/Nav.xcodeproj</string>
+		<string>/Users/ddraper/Documents/Bipins (trunk)/Nav/Nav/Nav.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>9 143 1280 673 0 0 2560 1578 </string>
@@ -619,7 +619,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>9B1F678D133E66280088F1DB</string>
-				<string>9BF7F1EF134C6F6A00C2A83E</string>
+				<string>9B4D32931350394500A8C76E</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

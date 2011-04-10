@@ -114,7 +114,8 @@
 	NSString *rowString = [_list objectAtIndex:row];
 
 	cell.text = rowString;
-	
+	UIImage *image = [UIImage imageNamed:@"Masala.png"];
+	cell.image = image;
 	
     return cell;
 }
@@ -159,6 +160,10 @@
 }
 */
 
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+	return 68;
+}
 
 #pragma mark -
 #pragma mark Table view delegate

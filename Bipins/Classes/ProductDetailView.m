@@ -1,17 +1,15 @@
 //
-//  RootView.m
+//  ProductDetailView.m
 //  Bipins
 //
-//  Created by Danny Draper on 04/04/2011.
+//  Created by Danny Draper on 09/04/2011.
 //  Copyright 2011 CedeSoft Ltd. All rights reserved.
 //
 
-#import "RootView.h"
+#import "ProductDetailView.h"
 
 
-@implementation RootView
-
-@synthesize btn_viewrecipies;
+@implementation ProductDetailView
 
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 /*
@@ -28,12 +26,11 @@
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
 
-	self.title = @"My Title";
+    //self.title = @"Product Detail";
 	
-	// Disclosure Button
-	_recipemenuController = [[RecipeMenuController alloc] initWithStyle:UITableViewStylePlain];
-    _productdetailview = [[ProductDetailView alloc] initWithNibName:@"ProductDetailView" bundle:nil];
+	//BipinsAppDelegate *delegate = [[UIApplication sharedApplication] delegate];
 	
+	//delegate.navController.navigationItem.hidesBackButton = YES;
 
 	
 	[super viewDidLoad];
@@ -47,22 +44,6 @@
     return (interfaceOrientation == UIInterfaceOrientationPortrait);
 }
 */
-
-- (IBAction) viewRecipies:(id)sender
-{
-	BipinsAppDelegate *delegate = [[UIApplication sharedApplication] delegate];
-	[delegate.navController pushViewController:_recipemenuController animated:YES];
-}
-
-- (IBAction) productDetails:(id)sender
-{
-	BipinsAppDelegate *delegate = [[UIApplication sharedApplication] delegate];
-
-
-	[delegate.navController pushViewController:_productdetailview animated:YES];
-	[delegate.navController popViewControllerAnimated:YES];
-		[delegate.navController popViewControllerAnimated:YES];
-}
 
 - (void)didReceiveMemoryWarning {
     // Releases the view if it doesn't have a superview.
