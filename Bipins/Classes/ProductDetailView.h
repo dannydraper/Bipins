@@ -10,7 +10,12 @@
 #import "BipinsAppDelegate.h"
 
 @interface ProductDetailView : UIViewController {
-
+	IBOutlet UIScrollView *scrollview;
+	
 }
+
+- (IBAction) buyButtonpressed:(id)sender;
+
+@property (nonatomic, retain) IBOutlet UIScrollView *scrollview;
 
 @end

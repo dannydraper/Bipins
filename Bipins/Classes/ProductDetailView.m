@@ -11,6 +11,8 @@
 
 @implementation ProductDetailView
 
+@synthesize scrollview;
+
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 /*
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
@@ -26,12 +28,17 @@
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
 
-    //self.title = @"Product Detail";
+    self.title = @"Product Detail";
 	
 	//BipinsAppDelegate *delegate = [[UIApplication sharedApplication] delegate];
 	
 	//delegate.navController.navigationItem.hidesBackButton = YES;
-
+	
+	//scrollview.contentSize = CGRectMake(0.0f, 0.0f, 320.0f, 3000.0f);
+	
+	[scrollview setContentSize:CGSizeMake(320.0f, 1300.0f)];
+	
+	scrollview.frame = CGRectMake (0.0f, 0.0f, 320.0f, 460.0f);
 	
 	[super viewDidLoad];
 }
@@ -50,6 +57,11 @@
     [super didReceiveMemoryWarning];
     
     // Release any cached data, images, etc. that aren't in use.
+}
+
+- (IBAction) buyButtonpressed:(id)sender
+{
+	[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.curryfusion.net/buy.php"]];
 }
 
 - (void)viewDidUnload {

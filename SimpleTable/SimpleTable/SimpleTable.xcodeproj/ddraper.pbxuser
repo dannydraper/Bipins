@@ -15,9 +15,9 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* SimpleTableViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {942, 1378}}";
-			sepNavSelRange = "{2523, 74}";
-			sepNavVisRange = "{736, 1937}";
+			sepNavIntBoundsRect = "{{0, 0}, {942, 1430}}";
+			sepNavSelRange = "{2599, 0}";
+			sepNavVisRange = "{1162, 1165}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -58,12 +58,10 @@
 			PBXWorkspaceStateSaveDate = 324119165;
 		};
 		perUserProjectItems = {
-			9B465CFE1332B45E00136F12 = 9B465CFE1332B45E00136F12 /* PlistBookmark */;
-			9B465D241336B31600136F12 = 9B465D241336B31600136F12 /* PBXTextBookmark */;
-			9B465D261336B31600136F12 = 9B465D261336B31600136F12 /* PBXTextBookmark */;
-			9B4D33601351AA9900A8C76E /* PBXTextBookmark */ = 9B4D33601351AA9900A8C76E /* PBXTextBookmark */;
-			9B80B7A0134D84ED00D7C084 = 9B80B7A0134D84ED00D7C084 /* PBXTextBookmark */;
-			9BEB84161348D03B00CA2388 = 9BEB84161348D03B00CA2388 /* PBXTextBookmark */;
+			9B465CFE1332B45E00136F12 /* PlistBookmark */ = 9B465CFE1332B45E00136F12 /* PlistBookmark */;
+			9B465D241336B31600136F12 /* PBXTextBookmark */ = 9B465D241336B31600136F12 /* PBXTextBookmark */;
+			9B4D339B1353AB0600A8C76E /* PBXTextBookmark */ = 9B4D339B1353AB0600A8C76E /* PBXTextBookmark */;
+			9B80B7A0134D84ED00D7C084 /* PBXTextBookmark */ = 9B80B7A0134D84ED00D7C084 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 9B465CE61332A91F00136F12 /* Source Control */;
 		userBuildSettings = {
@@ -132,25 +130,15 @@
 		vrLen = 483;
 		vrLoc = 0;
 	};
-	9B465D261336B31600136F12 /* PBXTextBookmark */ = {
+	9B4D339B1353AB0600A8C76E /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleTableViewController.m */;
-		name = "SimpleTableViewController.m: 81";
+		name = "SimpleTableViewController.m: 97";
 		rLen = 0;
-		rLoc = 2034;
+		rLoc = 2599;
 		rType = 0;
-		vrLen = 1093;
-		vrLoc = 1698;
-	};
-	9B4D33601351AA9900A8C76E /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleTableViewController.m */;
-		name = "SimpleTableViewController.m: 95";
-		rLen = 74;
-		rLoc = 2523;
-		rType = 0;
-		vrLen = 1937;
-		vrLoc = 736;
+		vrLen = 1165;
+		vrLoc = 1162;
 	};
 	9B80B7A0134D84ED00D7C084 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -161,15 +149,5 @@
 		rType = 0;
 		vrLen = 1849;
 		vrLoc = 728;
-	};
-	9BEB84161348D03B00CA2388 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleTableViewController.m */;
-		name = "SimpleTableViewController.m: 91";
-		rLen = 0;
-		rLoc = 2442;
-		rType = 0;
-		vrLen = 1889;
-		vrLoc = 709;
 	};
 }

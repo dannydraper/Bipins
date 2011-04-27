@@ -14,8 +14,8 @@
 @interface RootView : UIViewController {
 	
 	
-	RecipeMenuController *_recipemenuController;
-	ProductDetailView *_productdetailview;
+	//RecipeMenuController *_recipemenuController;
+	//ProductDetailView *_productdetailview;
 	
 	IBOutlet UIButton *btn_viewrecipies;
 }
@@ -26,5 +26,6 @@
 - (IBAction) productDetails:(id)sender;
 
 @property (nonatomic, retain) IBOutlet UIButton *btn_viewrecipies;
+
 
 @end

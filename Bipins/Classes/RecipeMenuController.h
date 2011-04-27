@@ -7,12 +7,31 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CustomRecipeCell.h"
+#import "RecipeDetailController.h"
+#import "BipinsAppDelegate.h"
+#import "SingleRecipe.h"
+#import <Foundation/NSXMLParser.h>
 
-
-@interface RecipeMenuController : UITableViewController {
+@interface RecipeMenuController : UITableViewController <NSXMLParserDelegate> {
+	
 	NSMutableArray *_list;
+	
+	NSMutableArray *_recipelist;
+	
+	NSXMLParser *_xmlparser;
+	
+	NSMutableString *_currentelement;
+	bool _currentelementallocated;
+	
+	SingleRecipe *_currentrecipe;
+	
 }
 
 @property (nonatomic, retain) NSArray *_list;
+
+
+- (void) parseXML:(NSString *)xmldata;
+- (void) rowSelected:(NSIndexPath *)indexPath;
 
 @end

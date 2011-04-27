@@ -278,7 +278,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {186, 901}}</string>
+							<string>{{0, 0}, {186, 619}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -290,14 +290,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {203, 919}}</string>
+						<string>{{0, 0}, {203, 637}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>352 577 1211 960 0 0 2560 1578 </string>
+						<string>19 100 1211 678 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -327,7 +327,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>9B4D33601351AA9900A8C76E</string>
+										<string>9B4D339B1353AB0600A8C76E</string>
 										<key>history</key>
 										<array>
 											<string>9B465CFE1332B45E00136F12</string>
@@ -344,14 +344,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1003, 914}}</string>
+								<string>{{0, 0}, {1003, 632}}</string>
 								<key>RubberWindowFrame</key>
-								<string>352 577 1211 960 0 0 2560 1578 </string>
+								<string>19 100 1211 678 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>914pt</string>
+							<string>632pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -364,9 +364,9 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 919}, {1003, 0}}</string>
+								<string>{{0, 637}, {1003, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>352 577 1211 960 0 0 2560 1578 </string>
+								<string>19 100 1211 678 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -531,10 +531,9 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>9B465CE41332A91F00136F12</string>
-		<string>/Users/ddraper/Documents/Bipins (trunk)/SimpleTable/SimpleTable/SimpleTable.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>352 577 1211 960 0 0 2560 1578 </string>
+	<string>19 100 1211 678 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -564,7 +563,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {500, 218}}</string>
 								<key>RubberWindowFrame</key>
-								<string>705 774 500 500 0 0 2560 1578 </string>
+								<string>705 774 500 500 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -588,7 +587,7 @@
 								<key>Frame</key>
 								<string>{{0, 223}, {500, 236}}</string>
 								<key>RubberWindowFrame</key>
-								<string>705 774 500 500 0 0 2560 1578 </string>
+								<string>705 774 500 500 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXBuildResultsModule</string>
@@ -620,7 +619,7 @@
 			<key>WindowContentMinSize</key>
 			<string>486 300</string>
 			<key>WindowString</key>
-			<string>705 774 500 500 0 0 2560 1578 </string>
+			<string>705 774 500 500 0 0 1280 778 </string>
 			<key>WindowToolGUID</key>
 			<string>9B465CE41332A91F00136F12</string>
 			<key>WindowToolIsVisible</key>

@@ -14,8 +14,89 @@
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		9B4D329713503A4400A8C76E /* ProductDetailView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B4D329513503A4400A8C76E /* ProductDetailView.m */; };
-		9B4D329813503A4400A8C76E /* ProductDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9B4D329613503A4400A8C76E /* ProductDetailView.xib */; };
 		9B4D33501351AA5800A8C76E /* Masala.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B4D334F1351AA5800A8C76E /* Masala.png */; };
+		9BD088B4135A0D3400C5B8D8 /* CustomRecipeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD088B3135A0D3400C5B8D8 /* CustomRecipeCell.m */; };
+		9BD088B6135A0D6F00C5B8D8 /* CustomRecipeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BD088B5135A0D6F00C5B8D8 /* CustomRecipeCell.xib */; };
+		9BD0895B1360C05500C5B8D8 /* RecipeDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD089591360C05500C5B8D8 /* RecipeDetailController.m */; };
+		9BD0895C1360C05500C5B8D8 /* RecipeDetailController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BD0895A1360C05500C5B8D8 /* RecipeDetailController.xib */; };
+		9BD0897E1361832800C5B8D8 /* bipins-logo-colour-320.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD0897D1361832800C5B8D8 /* bipins-logo-colour-320.png */; };
+		9BD0898A13640C1C00C5B8D8 /* BipinContentXML.xml in Resources */ = {isa = PBXBuildFile; fileRef = 9BD0898913640C1C00C5B8D8 /* BipinContentXML.xml */; };
+		9BD089B11364686200C5B8D8 /* SingleRecipe.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD089B01364686200C5B8D8 /* SingleRecipe.m */; };
+		9BD6DA851365EC0B0084C79F /* thumbnail-AromaticBarodaMurg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA6E1365EC0B0084C79F /* thumbnail-AromaticBarodaMurg.png */; };
+		9BD6DA861365EC0B0084C79F /* thumbnail-AromaticBasmati.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA6F1365EC0B0084C79F /* thumbnail-AromaticBasmati.png */; };
+		9BD6DA871365EC0B0084C79F /* thumbnail-AromaticJeeraMurg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA701365EC0B0084C79F /* thumbnail-AromaticJeeraMurg.png */; };
+		9BD6DA881365EC0B0084C79F /* thumbnail-AromaticRoastMurg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA711365EC0B0084C79F /* thumbnail-AromaticRoastMurg.png */; };
+		9BD6DA891365EC0B0084C79F /* thumbnail-AromaticRoastMurgh.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA721365EC0B0084C79F /* thumbnail-AromaticRoastMurgh.png */; };
+		9BD6DA8A1365EC0B0084C79F /* thumbnail-Fierylambburgers.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA731365EC0B0084C79F /* thumbnail-Fierylambburgers.png */; };
+		9BD6DA8B1365EC0B0084C79F /* thumbnail-Fierylambsheekkebabs.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA741365EC0B0084C79F /* thumbnail-Fierylambsheekkebabs.png */; };
+		9BD6DA8C1365EC0B0084C79F /* thumbnail-GoanAromaticMoules.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA751365EC0B0084C79F /* thumbnail-GoanAromaticMoules.png */; };
+		9BD6DA8D1365EC0B0084C79F /* thumbnail-GujiGobiMutter.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA761365EC0B0084C79F /* thumbnail-GujiGobiMutter.png */; };
+		9BD6DA8E1365EC0B0084C79F /* thumbnail-GujiQuorn.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA771365EC0B0084C79F /* thumbnail-GujiQuorn.png */; };
+		9BD6DA8F1365EC0B0084C79F /* thumbnail-MumbaiPita.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA781365EC0B0084C79F /* thumbnail-MumbaiPita.png */; };
+		9BD6DA901365EC0B0084C79F /* thumbnail-MumbaiSpaghettiJingla.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA791365EC0B0084C79F /* thumbnail-MumbaiSpaghettiJingla.png */; };
+		9BD6DA911365EC0B0084C79F /* thumbnail-MurgMasalawithsummertomatoes.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA7A1365EC0B0084C79F /* thumbnail-MurgMasalawithsummertomatoes.png */; };
+		9BD6DA921365EC0B0084C79F /* thumbnail-MutterButternutSquash.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA7B1365EC0B0084C79F /* thumbnail-MutterButternutSquash.png */; };
+		9BD6DA931365EC0B0084C79F /* thumbnail-PanFriedSalmonMasala.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA7C1365EC0B0084C79F /* thumbnail-PanFriedSalmonMasala.png */; };
+		9BD6DA941365EC0B0084C79F /* thumbnail-QuornMasala.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA7D1365EC0B0084C79F /* thumbnail-QuornMasala.png */; };
+		9BD6DA951365EC0B0084C79F /* thumbnail-RajaJinglaincoconutmilk.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA7E1365EC0B0084C79F /* thumbnail-RajaJinglaincoconutmilk.png */; };
+		9BD6DA961365EC0B0084C79F /* thumbnail-RoastMasalaAloo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA7F1365EC0B0084C79F /* thumbnail-RoastMasalaAloo.png */; };
+		9BD6DA971365EC0B0084C79F /* thumbnail-Steamedmasalaaloo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA801365EC0B0084C79F /* thumbnail-Steamedmasalaaloo.png */; };
+		9BD6DA981365EC0B0084C79F /* thumbnail-Surtimurgwithcoconutmilk.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA811365EC0B0084C79F /* thumbnail-Surtimurgwithcoconutmilk.png */; };
+		9BD6DA991365EC0B0084C79F /* thumbnail-SurtiThaiNoodle.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA821365EC0B0084C79F /* thumbnail-SurtiThaiNoodle.png */; };
+		9BD6DA9A1365EC0B0084C79F /* thumbnail-ZestyMachiScallopsPasta.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA831365EC0B0084C79F /* thumbnail-ZestyMachiScallopsPasta.png */; };
+		9BD6DA9B1365EC0B0084C79F /* thumbnail-ZingyBhajiaSquidRings.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA841365EC0B0084C79F /* thumbnail-ZingyBhajiaSquidRings.png */; };
+		9BD6DAB41365EC2B0084C79F /* picture-AromaticBarodaMurg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA9D1365EC2B0084C79F /* picture-AromaticBarodaMurg.png */; };
+		9BD6DAB51365EC2B0084C79F /* picture-AromaticBasmati.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA9E1365EC2B0084C79F /* picture-AromaticBasmati.png */; };
+		9BD6DAB61365EC2B0084C79F /* picture-AromaticJeeraMurg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DA9F1365EC2B0084C79F /* picture-AromaticJeeraMurg.png */; };
+		9BD6DAB71365EC2B0084C79F /* picture-AromaticRoastMurg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAA01365EC2B0084C79F /* picture-AromaticRoastMurg.png */; };
+		9BD6DAB81365EC2B0084C79F /* picture-AromaticRoastMurgh.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAA11365EC2B0084C79F /* picture-AromaticRoastMurgh.png */; };
+		9BD6DAB91365EC2B0084C79F /* picture-Fierylambburgers.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAA21365EC2B0084C79F /* picture-Fierylambburgers.png */; };
+		9BD6DABA1365EC2B0084C79F /* picture-Fierylambsheekkebabs.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAA31365EC2B0084C79F /* picture-Fierylambsheekkebabs.png */; };
+		9BD6DABB1365EC2B0084C79F /* picture-GoanAromaticMoules.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAA41365EC2B0084C79F /* picture-GoanAromaticMoules.png */; };
+		9BD6DABC1365EC2B0084C79F /* picture-GujiGobiMutter.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAA51365EC2B0084C79F /* picture-GujiGobiMutter.png */; };
+		9BD6DABD1365EC2B0084C79F /* picture-GujiQuorn.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAA61365EC2B0084C79F /* picture-GujiQuorn.png */; };
+		9BD6DABE1365EC2B0084C79F /* picture-MumbaiPita.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAA71365EC2B0084C79F /* picture-MumbaiPita.png */; };
+		9BD6DABF1365EC2B0084C79F /* picture-MumbaiSpaghettiJingla.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAA81365EC2B0084C79F /* picture-MumbaiSpaghettiJingla.png */; };
+		9BD6DAC01365EC2B0084C79F /* picture-MurgMasalawithsummertomatoes.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAA91365EC2B0084C79F /* picture-MurgMasalawithsummertomatoes.png */; };
+		9BD6DAC11365EC2B0084C79F /* picture-MutterButternutSquash.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAAA1365EC2B0084C79F /* picture-MutterButternutSquash.png */; };
+		9BD6DAC21365EC2B0084C79F /* picture-PanFriedSalmonMasala.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAAB1365EC2B0084C79F /* picture-PanFriedSalmonMasala.png */; };
+		9BD6DAC31365EC2B0084C79F /* picture-QuornMasala.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAAC1365EC2B0084C79F /* picture-QuornMasala.png */; };
+		9BD6DAC41365EC2B0084C79F /* picture-rajajinglaincoconutmilk.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAAD1365EC2B0084C79F /* picture-rajajinglaincoconutmilk.png */; };
+		9BD6DAC51365EC2B0084C79F /* picture-RoastMasalaAloo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAAE1365EC2B0084C79F /* picture-RoastMasalaAloo.png */; };
+		9BD6DAC61365EC2B0084C79F /* picture-Steamedmasalaaloo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAAF1365EC2B0084C79F /* picture-Steamedmasalaaloo.png */; };
+		9BD6DAC71365EC2B0084C79F /* picture-Surtimurgwithcoconutmilk.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAB01365EC2B0084C79F /* picture-Surtimurgwithcoconutmilk.png */; };
+		9BD6DAC81365EC2B0084C79F /* picture-SurtiThaiNoodle.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAB11365EC2B0084C79F /* picture-SurtiThaiNoodle.png */; };
+		9BD6DAC91365EC2B0084C79F /* picture-ZestyMachiScallopsPasta.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAB21365EC2B0084C79F /* picture-ZestyMachiScallopsPasta.png */; };
+		9BD6DACA1365EC2B0084C79F /* picture-ZingyBhajiaSquidRings.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAB31365EC2B0084C79F /* picture-ZingyBhajiaSquidRings.png */; };
+		9BD6DAE31365EC4C0084C79F /* secondpicture-AromaticBarodaMurg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DACC1365EC4C0084C79F /* secondpicture-AromaticBarodaMurg.png */; };
+		9BD6DAE41365EC4C0084C79F /* secondpicture-AromaticBasmati.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DACD1365EC4C0084C79F /* secondpicture-AromaticBasmati.png */; };
+		9BD6DAE51365EC4C0084C79F /* secondpicture-AromaticJeeraMurg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DACE1365EC4C0084C79F /* secondpicture-AromaticJeeraMurg.png */; };
+		9BD6DAE61365EC4C0084C79F /* secondpicture-AromaticRoastMurg.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DACF1365EC4C0084C79F /* secondpicture-AromaticRoastMurg.png */; };
+		9BD6DAE71365EC4C0084C79F /* secondpicture-AromaticRoastMurgh.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAD01365EC4C0084C79F /* secondpicture-AromaticRoastMurgh.png */; };
+		9BD6DAE81365EC4C0084C79F /* secondpicture-Fierylambburgers.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAD11365EC4C0084C79F /* secondpicture-Fierylambburgers.png */; };
+		9BD6DAE91365EC4C0084C79F /* secondpicture-Fierylambsheekkebabs.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAD21365EC4C0084C79F /* secondpicture-Fierylambsheekkebabs.png */; };
+		9BD6DAEA1365EC4C0084C79F /* secondpicture-GoanAromaticMoules.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAD31365EC4C0084C79F /* secondpicture-GoanAromaticMoules.png */; };
+		9BD6DAEB1365EC4C0084C79F /* secondpicture-GujiGobiMutter.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAD41365EC4C0084C79F /* secondpicture-GujiGobiMutter.png */; };
+		9BD6DAEC1365EC4C0084C79F /* secondpicture-GujiQuorn.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAD51365EC4C0084C79F /* secondpicture-GujiQuorn.png */; };
+		9BD6DAED1365EC4C0084C79F /* secondpicture-MumbaiPita.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAD61365EC4C0084C79F /* secondpicture-MumbaiPita.png */; };
+		9BD6DAEE1365EC4C0084C79F /* secondpicture-MumbaiSpaghettiJingla.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAD71365EC4C0084C79F /* secondpicture-MumbaiSpaghettiJingla.png */; };
+		9BD6DAEF1365EC4C0084C79F /* secondpicture-MurgMasalawithsummertomatoes.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAD81365EC4C0084C79F /* secondpicture-MurgMasalawithsummertomatoes.png */; };
+		9BD6DAF01365EC4C0084C79F /* secondpicture-MutterButternutSquash.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAD91365EC4C0084C79F /* secondpicture-MutterButternutSquash.png */; };
+		9BD6DAF11365EC4C0084C79F /* secondpicture-PanFriedSalmonMasala.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DADA1365EC4C0084C79F /* secondpicture-PanFriedSalmonMasala.png */; };
+		9BD6DAF21365EC4C0084C79F /* secondpicture-QuornMasala.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DADB1365EC4C0084C79F /* secondpicture-QuornMasala.png */; };
+		9BD6DAF31365EC4C0084C79F /* secondpicture-Rajajinglaincoconutmilk.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DADC1365EC4C0084C79F /* secondpicture-Rajajinglaincoconutmilk.png */; };
+		9BD6DAF41365EC4C0084C79F /* secondpicture-RoastMasalaAloo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DADD1365EC4C0084C79F /* secondpicture-RoastMasalaAloo.png */; };
+		9BD6DAF51365EC4C0084C79F /* secondpicture-Steamedmasalaaloo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DADE1365EC4C0084C79F /* secondpicture-Steamedmasalaaloo.png */; };
+		9BD6DAF61365EC4C0084C79F /* secondpicture-Surtimurgwithcoconutmilk.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DADF1365EC4C0084C79F /* secondpicture-Surtimurgwithcoconutmilk.png */; };
+		9BD6DAF71365EC4C0084C79F /* secondpicture-SurtiThaiNoodle.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAE01365EC4C0084C79F /* secondpicture-SurtiThaiNoodle.png */; };
+		9BD6DAF81365EC4C0084C79F /* secondpicture-ZestyMachiScallopsPasta.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAE11365EC4C0084C79F /* secondpicture-ZestyMachiScallopsPasta.png */; };
+		9BD6DAF91365EC4C0084C79F /* secondpicture-ZingyBhajiaSquidRings.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DAE21365EC4C0084C79F /* secondpicture-ZingyBhajiaSquidRings.png */; };
+		9BD6DC4113684EE00084C79F /* ProductDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DC4013684EE00084C79F /* ProductDetailView.xib */; };
+		9BD6DCBE136865760084C79F /* product1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DCBD136865760084C79F /* product1.png */; };
+		9BD6DCE61368696D0084C79F /* product2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DCE51368696D0084C79F /* product2.png */; };
+		9BD6DCEA13686CDA0084C79F /* product3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DCE913686CDA0084C79F /* product3.png */; };
+		9BD6DD1A13687BD30084C79F /* 57Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DD1813687BD30084C79F /* 57Icon.png */; };
+		9BD6DD1B13687BD30084C79F /* 114Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6DD1913687BD30084C79F /* 114Icon.png */; };
 		9BF7F188134A563F00C2A83E /* RootView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BF7F186134A563F00C2A83E /* RootView.m */; };
 		9BF7F189134A563F00C2A83E /* RootView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9BF7F187134A563F00C2A83E /* RootView.xib */; };
 		9BF7F1B7134C62CC00C2A83E /* RecipeMenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BF7F1B6134C62CC00C2A83E /* RecipeMenuController.m */; };
@@ -34,8 +115,92 @@
 		8D1107310486CEB800E47090 /* Bipins-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Bipins-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		9B4D329413503A4400A8C76E /* ProductDetailView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProductDetailView.h; sourceTree = "<group>"; };
 		9B4D329513503A4400A8C76E /* ProductDetailView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProductDetailView.m; sourceTree = "<group>"; };
-		9B4D329613503A4400A8C76E /* ProductDetailView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ProductDetailView.xib; path = Classes/ProductDetailView.xib; sourceTree = "<group>"; };
 		9B4D334F1351AA5800A8C76E /* Masala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Masala.png; sourceTree = "<group>"; };
+		9BD088B2135A0D3400C5B8D8 /* CustomRecipeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomRecipeCell.h; sourceTree = "<group>"; };
+		9BD088B3135A0D3400C5B8D8 /* CustomRecipeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomRecipeCell.m; sourceTree = "<group>"; };
+		9BD088B5135A0D6F00C5B8D8 /* CustomRecipeCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomRecipeCell.xib; sourceTree = "<group>"; };
+		9BD089581360C05500C5B8D8 /* RecipeDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeDetailController.h; sourceTree = "<group>"; };
+		9BD089591360C05500C5B8D8 /* RecipeDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeDetailController.m; sourceTree = "<group>"; };
+		9BD0895A1360C05500C5B8D8 /* RecipeDetailController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = RecipeDetailController.xib; path = Classes/RecipeDetailController.xib; sourceTree = "<group>"; };
+		9BD0897D1361832800C5B8D8 /* bipins-logo-colour-320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bipins-logo-colour-320.png"; sourceTree = "<group>"; };
+		9BD0898913640C1C00C5B8D8 /* BipinContentXML.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = BipinContentXML.xml; sourceTree = "<group>"; };
+		9BD089AF1364686200C5B8D8 /* SingleRecipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SingleRecipe.h; sourceTree = "<group>"; };
+		9BD089B01364686200C5B8D8 /* SingleRecipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SingleRecipe.m; sourceTree = "<group>"; };
+		9BD6DA6E1365EC0B0084C79F /* thumbnail-AromaticBarodaMurg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-AromaticBarodaMurg.png"; sourceTree = "<group>"; };
+		9BD6DA6F1365EC0B0084C79F /* thumbnail-AromaticBasmati.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-AromaticBasmati.png"; sourceTree = "<group>"; };
+		9BD6DA701365EC0B0084C79F /* thumbnail-AromaticJeeraMurg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-AromaticJeeraMurg.png"; sourceTree = "<group>"; };
+		9BD6DA711365EC0B0084C79F /* thumbnail-AromaticRoastMurg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-AromaticRoastMurg.png"; sourceTree = "<group>"; };
+		9BD6DA721365EC0B0084C79F /* thumbnail-AromaticRoastMurgh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-AromaticRoastMurgh.png"; sourceTree = "<group>"; };
+		9BD6DA731365EC0B0084C79F /* thumbnail-Fierylambburgers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-Fierylambburgers.png"; sourceTree = "<group>"; };
+		9BD6DA741365EC0B0084C79F /* thumbnail-Fierylambsheekkebabs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-Fierylambsheekkebabs.png"; sourceTree = "<group>"; };
+		9BD6DA751365EC0B0084C79F /* thumbnail-GoanAromaticMoules.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-GoanAromaticMoules.png"; sourceTree = "<group>"; };
+		9BD6DA761365EC0B0084C79F /* thumbnail-GujiGobiMutter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-GujiGobiMutter.png"; sourceTree = "<group>"; };
+		9BD6DA771365EC0B0084C79F /* thumbnail-GujiQuorn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-GujiQuorn.png"; sourceTree = "<group>"; };
+		9BD6DA781365EC0B0084C79F /* thumbnail-MumbaiPita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-MumbaiPita.png"; sourceTree = "<group>"; };
+		9BD6DA791365EC0B0084C79F /* thumbnail-MumbaiSpaghettiJingla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-MumbaiSpaghettiJingla.png"; sourceTree = "<group>"; };
+		9BD6DA7A1365EC0B0084C79F /* thumbnail-MurgMasalawithsummertomatoes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-MurgMasalawithsummertomatoes.png"; sourceTree = "<group>"; };
+		9BD6DA7B1365EC0B0084C79F /* thumbnail-MutterButternutSquash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-MutterButternutSquash.png"; sourceTree = "<group>"; };
+		9BD6DA7C1365EC0B0084C79F /* thumbnail-PanFriedSalmonMasala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-PanFriedSalmonMasala.png"; sourceTree = "<group>"; };
+		9BD6DA7D1365EC0B0084C79F /* thumbnail-QuornMasala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-QuornMasala.png"; sourceTree = "<group>"; };
+		9BD6DA7E1365EC0B0084C79F /* thumbnail-RajaJinglaincoconutmilk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-RajaJinglaincoconutmilk.png"; sourceTree = "<group>"; };
+		9BD6DA7F1365EC0B0084C79F /* thumbnail-RoastMasalaAloo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-RoastMasalaAloo.png"; sourceTree = "<group>"; };
+		9BD6DA801365EC0B0084C79F /* thumbnail-Steamedmasalaaloo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-Steamedmasalaaloo.png"; sourceTree = "<group>"; };
+		9BD6DA811365EC0B0084C79F /* thumbnail-Surtimurgwithcoconutmilk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-Surtimurgwithcoconutmilk.png"; sourceTree = "<group>"; };
+		9BD6DA821365EC0B0084C79F /* thumbnail-SurtiThaiNoodle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-SurtiThaiNoodle.png"; sourceTree = "<group>"; };
+		9BD6DA831365EC0B0084C79F /* thumbnail-ZestyMachiScallopsPasta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-ZestyMachiScallopsPasta.png"; sourceTree = "<group>"; };
+		9BD6DA841365EC0B0084C79F /* thumbnail-ZingyBhajiaSquidRings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail-ZingyBhajiaSquidRings.png"; sourceTree = "<group>"; };
+		9BD6DA9D1365EC2B0084C79F /* picture-AromaticBarodaMurg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-AromaticBarodaMurg.png"; sourceTree = "<group>"; };
+		9BD6DA9E1365EC2B0084C79F /* picture-AromaticBasmati.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-AromaticBasmati.png"; sourceTree = "<group>"; };
+		9BD6DA9F1365EC2B0084C79F /* picture-AromaticJeeraMurg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-AromaticJeeraMurg.png"; sourceTree = "<group>"; };
+		9BD6DAA01365EC2B0084C79F /* picture-AromaticRoastMurg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-AromaticRoastMurg.png"; sourceTree = "<group>"; };
+		9BD6DAA11365EC2B0084C79F /* picture-AromaticRoastMurgh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-AromaticRoastMurgh.png"; sourceTree = "<group>"; };
+		9BD6DAA21365EC2B0084C79F /* picture-Fierylambburgers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-Fierylambburgers.png"; sourceTree = "<group>"; };
+		9BD6DAA31365EC2B0084C79F /* picture-Fierylambsheekkebabs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-Fierylambsheekkebabs.png"; sourceTree = "<group>"; };
+		9BD6DAA41365EC2B0084C79F /* picture-GoanAromaticMoules.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-GoanAromaticMoules.png"; sourceTree = "<group>"; };
+		9BD6DAA51365EC2B0084C79F /* picture-GujiGobiMutter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-GujiGobiMutter.png"; sourceTree = "<group>"; };
+		9BD6DAA61365EC2B0084C79F /* picture-GujiQuorn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-GujiQuorn.png"; sourceTree = "<group>"; };
+		9BD6DAA71365EC2B0084C79F /* picture-MumbaiPita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-MumbaiPita.png"; sourceTree = "<group>"; };
+		9BD6DAA81365EC2B0084C79F /* picture-MumbaiSpaghettiJingla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-MumbaiSpaghettiJingla.png"; sourceTree = "<group>"; };
+		9BD6DAA91365EC2B0084C79F /* picture-MurgMasalawithsummertomatoes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-MurgMasalawithsummertomatoes.png"; sourceTree = "<group>"; };
+		9BD6DAAA1365EC2B0084C79F /* picture-MutterButternutSquash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-MutterButternutSquash.png"; sourceTree = "<group>"; };
+		9BD6DAAB1365EC2B0084C79F /* picture-PanFriedSalmonMasala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-PanFriedSalmonMasala.png"; sourceTree = "<group>"; };
+		9BD6DAAC1365EC2B0084C79F /* picture-QuornMasala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-QuornMasala.png"; sourceTree = "<group>"; };
+		9BD6DAAD1365EC2B0084C79F /* picture-rajajinglaincoconutmilk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-rajajinglaincoconutmilk.png"; sourceTree = "<group>"; };
+		9BD6DAAE1365EC2B0084C79F /* picture-RoastMasalaAloo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-RoastMasalaAloo.png"; sourceTree = "<group>"; };
+		9BD6DAAF1365EC2B0084C79F /* picture-Steamedmasalaaloo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-Steamedmasalaaloo.png"; sourceTree = "<group>"; };
+		9BD6DAB01365EC2B0084C79F /* picture-Surtimurgwithcoconutmilk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-Surtimurgwithcoconutmilk.png"; sourceTree = "<group>"; };
+		9BD6DAB11365EC2B0084C79F /* picture-SurtiThaiNoodle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-SurtiThaiNoodle.png"; sourceTree = "<group>"; };
+		9BD6DAB21365EC2B0084C79F /* picture-ZestyMachiScallopsPasta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-ZestyMachiScallopsPasta.png"; sourceTree = "<group>"; };
+		9BD6DAB31365EC2B0084C79F /* picture-ZingyBhajiaSquidRings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picture-ZingyBhajiaSquidRings.png"; sourceTree = "<group>"; };
+		9BD6DACC1365EC4C0084C79F /* secondpicture-AromaticBarodaMurg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-AromaticBarodaMurg.png"; sourceTree = "<group>"; };
+		9BD6DACD1365EC4C0084C79F /* secondpicture-AromaticBasmati.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-AromaticBasmati.png"; sourceTree = "<group>"; };
+		9BD6DACE1365EC4C0084C79F /* secondpicture-AromaticJeeraMurg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-AromaticJeeraMurg.png"; sourceTree = "<group>"; };
+		9BD6DACF1365EC4C0084C79F /* secondpicture-AromaticRoastMurg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-AromaticRoastMurg.png"; sourceTree = "<group>"; };
+		9BD6DAD01365EC4C0084C79F /* secondpicture-AromaticRoastMurgh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-AromaticRoastMurgh.png"; sourceTree = "<group>"; };
+		9BD6DAD11365EC4C0084C79F /* secondpicture-Fierylambburgers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-Fierylambburgers.png"; sourceTree = "<group>"; };
+		9BD6DAD21365EC4C0084C79F /* secondpicture-Fierylambsheekkebabs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-Fierylambsheekkebabs.png"; sourceTree = "<group>"; };
+		9BD6DAD31365EC4C0084C79F /* secondpicture-GoanAromaticMoules.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-GoanAromaticMoules.png"; sourceTree = "<group>"; };
+		9BD6DAD41365EC4C0084C79F /* secondpicture-GujiGobiMutter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-GujiGobiMutter.png"; sourceTree = "<group>"; };
+		9BD6DAD51365EC4C0084C79F /* secondpicture-GujiQuorn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-GujiQuorn.png"; sourceTree = "<group>"; };
+		9BD6DAD61365EC4C0084C79F /* secondpicture-MumbaiPita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-MumbaiPita.png"; sourceTree = "<group>"; };
+		9BD6DAD71365EC4C0084C79F /* secondpicture-MumbaiSpaghettiJingla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-MumbaiSpaghettiJingla.png"; sourceTree = "<group>"; };
+		9BD6DAD81365EC4C0084C79F /* secondpicture-MurgMasalawithsummertomatoes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-MurgMasalawithsummertomatoes.png"; sourceTree = "<group>"; };
+		9BD6DAD91365EC4C0084C79F /* secondpicture-MutterButternutSquash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-MutterButternutSquash.png"; sourceTree = "<group>"; };
+		9BD6DADA1365EC4C0084C79F /* secondpicture-PanFriedSalmonMasala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-PanFriedSalmonMasala.png"; sourceTree = "<group>"; };
+		9BD6DADB1365EC4C0084C79F /* secondpicture-QuornMasala.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-QuornMasala.png"; sourceTree = "<group>"; };
+		9BD6DADC1365EC4C0084C79F /* secondpicture-Rajajinglaincoconutmilk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-Rajajinglaincoconutmilk.png"; sourceTree = "<group>"; };
+		9BD6DADD1365EC4C0084C79F /* secondpicture-RoastMasalaAloo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-RoastMasalaAloo.png"; sourceTree = "<group>"; };
+		9BD6DADE1365EC4C0084C79F /* secondpicture-Steamedmasalaaloo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-Steamedmasalaaloo.png"; sourceTree = "<group>"; };
+		9BD6DADF1365EC4C0084C79F /* secondpicture-Surtimurgwithcoconutmilk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-Surtimurgwithcoconutmilk.png"; sourceTree = "<group>"; };
+		9BD6DAE01365EC4C0084C79F /* secondpicture-SurtiThaiNoodle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-SurtiThaiNoodle.png"; sourceTree = "<group>"; };
+		9BD6DAE11365EC4C0084C79F /* secondpicture-ZestyMachiScallopsPasta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-ZestyMachiScallopsPasta.png"; sourceTree = "<group>"; };
+		9BD6DAE21365EC4C0084C79F /* secondpicture-ZingyBhajiaSquidRings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondpicture-ZingyBhajiaSquidRings.png"; sourceTree = "<group>"; };
+		9BD6DC4013684EE00084C79F /* ProductDetailView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProductDetailView.xib; sourceTree = "<group>"; };
+		9BD6DCBD136865760084C79F /* product1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = product1.png; sourceTree = "<group>"; };
+		9BD6DCE51368696D0084C79F /* product2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = product2.png; sourceTree = "<group>"; };
+		9BD6DCE913686CDA0084C79F /* product3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = product3.png; sourceTree = "<group>"; };
+		9BD6DD1813687BD30084C79F /* 57Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 57Icon.png; sourceTree = "<group>"; };
+		9BD6DD1913687BD30084C79F /* 114Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 114Icon.png; sourceTree = "<group>"; };
 		9BF7F185134A563F00C2A83E /* RootView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootView.h; sourceTree = "<group>"; };
 		9BF7F186134A563F00C2A83E /* RootView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootView.m; sourceTree = "<group>"; };
 		9BF7F187134A563F00C2A83E /* RootView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = RootView.xib; path = Classes/RootView.xib; sourceTree = "<group>"; };
@@ -68,6 +233,12 @@
 				9BF7F1B6134C62CC00C2A83E /* RecipeMenuController.m */,
 				9B4D329413503A4400A8C76E /* ProductDetailView.h */,
 				9B4D329513503A4400A8C76E /* ProductDetailView.m */,
+				9BD088B2135A0D3400C5B8D8 /* CustomRecipeCell.h */,
+				9BD088B3135A0D3400C5B8D8 /* CustomRecipeCell.m */,
+				9BD089581360C05500C5B8D8 /* RecipeDetailController.h */,
+				9BD089591360C05500C5B8D8 /* RecipeDetailController.m */,
+				9BD089AF1364686200C5B8D8 /* SingleRecipe.h */,
+				9BD089B01364686200C5B8D8 /* SingleRecipe.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -104,11 +275,23 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				9BD6DD1813687BD30084C79F /* 57Icon.png */,
+				9BD6DD1913687BD30084C79F /* 114Icon.png */,
+				9BD6DCE913686CDA0084C79F /* product3.png */,
+				9BD6DCE51368696D0084C79F /* product2.png */,
+				9BD6DCBD136865760084C79F /* product1.png */,
+				9BD6DACB1365EC330084C79F /* SecondPictures */,
+				9BD6DA9C1365EC100084C79F /* Pictures */,
+				9BD6D9F31365DC590084C79F /* Thumbnails */,
+				9BD0898913640C1C00C5B8D8 /* BipinContentXML.xml */,
+				9BD0897D1361832800C5B8D8 /* bipins-logo-colour-320.png */,
 				9B4D334F1351AA5800A8C76E /* Masala.png */,
-				9B4D329613503A4400A8C76E /* ProductDetailView.xib */,
+				9BD0895A1360C05500C5B8D8 /* RecipeDetailController.xib */,
 				9BF7F187134A563F00C2A83E /* RootView.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Bipins-Info.plist */,
+				9BD088B5135A0D6F00C5B8D8 /* CustomRecipeCell.xib */,
+				9BD6DC4013684EE00084C79F /* ProductDetailView.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -121,6 +304,96 @@
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9BD6D9F31365DC590084C79F /* Thumbnails */ = {
+			isa = PBXGroup;
+			children = (
+				9BD6DA6E1365EC0B0084C79F /* thumbnail-AromaticBarodaMurg.png */,
+				9BD6DA6F1365EC0B0084C79F /* thumbnail-AromaticBasmati.png */,
+				9BD6DA701365EC0B0084C79F /* thumbnail-AromaticJeeraMurg.png */,
+				9BD6DA711365EC0B0084C79F /* thumbnail-AromaticRoastMurg.png */,
+				9BD6DA721365EC0B0084C79F /* thumbnail-AromaticRoastMurgh.png */,
+				9BD6DA731365EC0B0084C79F /* thumbnail-Fierylambburgers.png */,
+				9BD6DA741365EC0B0084C79F /* thumbnail-Fierylambsheekkebabs.png */,
+				9BD6DA751365EC0B0084C79F /* thumbnail-GoanAromaticMoules.png */,
+				9BD6DA761365EC0B0084C79F /* thumbnail-GujiGobiMutter.png */,
+				9BD6DA771365EC0B0084C79F /* thumbnail-GujiQuorn.png */,
+				9BD6DA781365EC0B0084C79F /* thumbnail-MumbaiPita.png */,
+				9BD6DA791365EC0B0084C79F /* thumbnail-MumbaiSpaghettiJingla.png */,
+				9BD6DA7A1365EC0B0084C79F /* thumbnail-MurgMasalawithsummertomatoes.png */,
+				9BD6DA7B1365EC0B0084C79F /* thumbnail-MutterButternutSquash.png */,
+				9BD6DA7C1365EC0B0084C79F /* thumbnail-PanFriedSalmonMasala.png */,
+				9BD6DA7D1365EC0B0084C79F /* thumbnail-QuornMasala.png */,
+				9BD6DA7E1365EC0B0084C79F /* thumbnail-RajaJinglaincoconutmilk.png */,
+				9BD6DA7F1365EC0B0084C79F /* thumbnail-RoastMasalaAloo.png */,
+				9BD6DA801365EC0B0084C79F /* thumbnail-Steamedmasalaaloo.png */,
+				9BD6DA811365EC0B0084C79F /* thumbnail-Surtimurgwithcoconutmilk.png */,
+				9BD6DA821365EC0B0084C79F /* thumbnail-SurtiThaiNoodle.png */,
+				9BD6DA831365EC0B0084C79F /* thumbnail-ZestyMachiScallopsPasta.png */,
+				9BD6DA841365EC0B0084C79F /* thumbnail-ZingyBhajiaSquidRings.png */,
+			);
+			name = Thumbnails;
+			sourceTree = "<group>";
+		};
+		9BD6DA9C1365EC100084C79F /* Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				9BD6DA9D1365EC2B0084C79F /* picture-AromaticBarodaMurg.png */,
+				9BD6DA9E1365EC2B0084C79F /* picture-AromaticBasmati.png */,
+				9BD6DA9F1365EC2B0084C79F /* picture-AromaticJeeraMurg.png */,
+				9BD6DAA01365EC2B0084C79F /* picture-AromaticRoastMurg.png */,
+				9BD6DAA11365EC2B0084C79F /* picture-AromaticRoastMurgh.png */,
+				9BD6DAA21365EC2B0084C79F /* picture-Fierylambburgers.png */,
+				9BD6DAA31365EC2B0084C79F /* picture-Fierylambsheekkebabs.png */,
+				9BD6DAA41365EC2B0084C79F /* picture-GoanAromaticMoules.png */,
+				9BD6DAA51365EC2B0084C79F /* picture-GujiGobiMutter.png */,
+				9BD6DAA61365EC2B0084C79F /* picture-GujiQuorn.png */,
+				9BD6DAA71365EC2B0084C79F /* picture-MumbaiPita.png */,
+				9BD6DAA81365EC2B0084C79F /* picture-MumbaiSpaghettiJingla.png */,
+				9BD6DAA91365EC2B0084C79F /* picture-MurgMasalawithsummertomatoes.png */,
+				9BD6DAAA1365EC2B0084C79F /* picture-MutterButternutSquash.png */,
+				9BD6DAAB1365EC2B0084C79F /* picture-PanFriedSalmonMasala.png */,
+				9BD6DAAC1365EC2B0084C79F /* picture-QuornMasala.png */,
+				9BD6DAAD1365EC2B0084C79F /* picture-rajajinglaincoconutmilk.png */,
+				9BD6DAAE1365EC2B0084C79F /* picture-RoastMasalaAloo.png */,
+				9BD6DAAF1365EC2B0084C79F /* picture-Steamedmasalaaloo.png */,
+				9BD6DAB01365EC2B0084C79F /* picture-Surtimurgwithcoconutmilk.png */,
+				9BD6DAB11365EC2B0084C79F /* picture-SurtiThaiNoodle.png */,
+				9BD6DAB21365EC2B0084C79F /* picture-ZestyMachiScallopsPasta.png */,
+				9BD6DAB31365EC2B0084C79F /* picture-ZingyBhajiaSquidRings.png */,
+			);
+			name = Pictures;
+			sourceTree = "<group>";
+		};
+		9BD6DACB1365EC330084C79F /* SecondPictures */ = {
+			isa = PBXGroup;
+			children = (
+				9BD6DACC1365EC4C0084C79F /* secondpicture-AromaticBarodaMurg.png */,
+				9BD6DACD1365EC4C0084C79F /* secondpicture-AromaticBasmati.png */,
+				9BD6DACE1365EC4C0084C79F /* secondpicture-AromaticJeeraMurg.png */,
+				9BD6DACF1365EC4C0084C79F /* secondpicture-AromaticRoastMurg.png */,
+				9BD6DAD01365EC4C0084C79F /* secondpicture-AromaticRoastMurgh.png */,
+				9BD6DAD11365EC4C0084C79F /* secondpicture-Fierylambburgers.png */,
+				9BD6DAD21365EC4C0084C79F /* secondpicture-Fierylambsheekkebabs.png */,
+				9BD6DAD31365EC4C0084C79F /* secondpicture-GoanAromaticMoules.png */,
+				9BD6DAD41365EC4C0084C79F /* secondpicture-GujiGobiMutter.png */,
+				9BD6DAD51365EC4C0084C79F /* secondpicture-GujiQuorn.png */,
+				9BD6DAD61365EC4C0084C79F /* secondpicture-MumbaiPita.png */,
+				9BD6DAD71365EC4C0084C79F /* secondpicture-MumbaiSpaghettiJingla.png */,
+				9BD6DAD81365EC4C0084C79F /* secondpicture-MurgMasalawithsummertomatoes.png */,
+				9BD6DAD91365EC4C0084C79F /* secondpicture-MutterButternutSquash.png */,
+				9BD6DADA1365EC4C0084C79F /* secondpicture-PanFriedSalmonMasala.png */,
+				9BD6DADB1365EC4C0084C79F /* secondpicture-QuornMasala.png */,
+				9BD6DADC1365EC4C0084C79F /* secondpicture-Rajajinglaincoconutmilk.png */,
+				9BD6DADD1365EC4C0084C79F /* secondpicture-RoastMasalaAloo.png */,
+				9BD6DADE1365EC4C0084C79F /* secondpicture-Steamedmasalaaloo.png */,
+				9BD6DADF1365EC4C0084C79F /* secondpicture-Surtimurgwithcoconutmilk.png */,
+				9BD6DAE01365EC4C0084C79F /* secondpicture-SurtiThaiNoodle.png */,
+				9BD6DAE11365EC4C0084C79F /* secondpicture-ZestyMachiScallopsPasta.png */,
+				9BD6DAE21365EC4C0084C79F /* secondpicture-ZingyBhajiaSquidRings.png */,
+			);
+			name = SecondPictures;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -174,8 +447,86 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				9BF7F189134A563F00C2A83E /* RootView.xib in Resources */,
-				9B4D329813503A4400A8C76E /* ProductDetailView.xib in Resources */,
 				9B4D33501351AA5800A8C76E /* Masala.png in Resources */,
+				9BD088B6135A0D6F00C5B8D8 /* CustomRecipeCell.xib in Resources */,
+				9BD0895C1360C05500C5B8D8 /* RecipeDetailController.xib in Resources */,
+				9BD0897E1361832800C5B8D8 /* bipins-logo-colour-320.png in Resources */,
+				9BD0898A13640C1C00C5B8D8 /* BipinContentXML.xml in Resources */,
+				9BD6DA851365EC0B0084C79F /* thumbnail-AromaticBarodaMurg.png in Resources */,
+				9BD6DA861365EC0B0084C79F /* thumbnail-AromaticBasmati.png in Resources */,
+				9BD6DA871365EC0B0084C79F /* thumbnail-AromaticJeeraMurg.png in Resources */,
+				9BD6DA881365EC0B0084C79F /* thumbnail-AromaticRoastMurg.png in Resources */,
+				9BD6DA891365EC0B0084C79F /* thumbnail-AromaticRoastMurgh.png in Resources */,
+				9BD6DA8A1365EC0B0084C79F /* thumbnail-Fierylambburgers.png in Resources */,
+				9BD6DA8B1365EC0B0084C79F /* thumbnail-Fierylambsheekkebabs.png in Resources */,
+				9BD6DA8C1365EC0B0084C79F /* thumbnail-GoanAromaticMoules.png in Resources */,
+				9BD6DA8D1365EC0B0084C79F /* thumbnail-GujiGobiMutter.png in Resources */,
+				9BD6DA8E1365EC0B0084C79F /* thumbnail-GujiQuorn.png in Resources */,
+				9BD6DA8F1365EC0B0084C79F /* thumbnail-MumbaiPita.png in Resources */,
+				9BD6DA901365EC0B0084C79F /* thumbnail-MumbaiSpaghettiJingla.png in Resources */,
+				9BD6DA911365EC0B0084C79F /* thumbnail-MurgMasalawithsummertomatoes.png in Resources */,
+				9BD6DA921365EC0B0084C79F /* thumbnail-MutterButternutSquash.png in Resources */,
+				9BD6DA931365EC0B0084C79F /* thumbnail-PanFriedSalmonMasala.png in Resources */,
+				9BD6DA941365EC0B0084C79F /* thumbnail-QuornMasala.png in Resources */,
+				9BD6DA951365EC0B0084C79F /* thumbnail-RajaJinglaincoconutmilk.png in Resources */,
+				9BD6DA961365EC0B0084C79F /* thumbnail-RoastMasalaAloo.png in Resources */,
+				9BD6DA971365EC0B0084C79F /* thumbnail-Steamedmasalaaloo.png in Resources */,
+				9BD6DA981365EC0B0084C79F /* thumbnail-Surtimurgwithcoconutmilk.png in Resources */,
+				9BD6DA991365EC0B0084C79F /* thumbnail-SurtiThaiNoodle.png in Resources */,
+				9BD6DA9A1365EC0B0084C79F /* thumbnail-ZestyMachiScallopsPasta.png in Resources */,
+				9BD6DA9B1365EC0B0084C79F /* thumbnail-ZingyBhajiaSquidRings.png in Resources */,
+				9BD6DAB41365EC2B0084C79F /* picture-AromaticBarodaMurg.png in Resources */,
+				9BD6DAB51365EC2B0084C79F /* picture-AromaticBasmati.png in Resources */,
+				9BD6DAB61365EC2B0084C79F /* picture-AromaticJeeraMurg.png in Resources */,
+				9BD6DAB71365EC2B0084C79F /* picture-AromaticRoastMurg.png in Resources */,
+				9BD6DAB81365EC2B0084C79F /* picture-AromaticRoastMurgh.png in Resources */,
+				9BD6DAB91365EC2B0084C79F /* picture-Fierylambburgers.png in Resources */,
+				9BD6DABA1365EC2B0084C79F /* picture-Fierylambsheekkebabs.png in Resources */,
+				9BD6DABB1365EC2B0084C79F /* picture-GoanAromaticMoules.png in Resources */,
+				9BD6DABC1365EC2B0084C79F /* picture-GujiGobiMutter.png in Resources */,
+				9BD6DABD1365EC2B0084C79F /* picture-GujiQuorn.png in Resources */,
+				9BD6DABE1365EC2B0084C79F /* picture-MumbaiPita.png in Resources */,
+				9BD6DABF1365EC2B0084C79F /* picture-MumbaiSpaghettiJingla.png in Resources */,
+				9BD6DAC01365EC2B0084C79F /* picture-MurgMasalawithsummertomatoes.png in Resources */,
+				9BD6DAC11365EC2B0084C79F /* picture-MutterButternutSquash.png in Resources */,
+				9BD6DAC21365EC2B0084C79F /* picture-PanFriedSalmonMasala.png in Resources */,
+				9BD6DAC31365EC2B0084C79F /* picture-QuornMasala.png in Resources */,
+				9BD6DAC41365EC2B0084C79F /* picture-rajajinglaincoconutmilk.png in Resources */,
+				9BD6DAC51365EC2B0084C79F /* picture-RoastMasalaAloo.png in Resources */,
+				9BD6DAC61365EC2B0084C79F /* picture-Steamedmasalaaloo.png in Resources */,
+				9BD6DAC71365EC2B0084C79F /* picture-Surtimurgwithcoconutmilk.png in Resources */,
+				9BD6DAC81365EC2B0084C79F /* picture-SurtiThaiNoodle.png in Resources */,
+				9BD6DAC91365EC2B0084C79F /* picture-ZestyMachiScallopsPasta.png in Resources */,
+				9BD6DACA1365EC2B0084C79F /* picture-ZingyBhajiaSquidRings.png in Resources */,
+				9BD6DAE31365EC4C0084C79F /* secondpicture-AromaticBarodaMurg.png in Resources */,
+				9BD6DAE41365EC4C0084C79F /* secondpicture-AromaticBasmati.png in Resources */,
+				9BD6DAE51365EC4C0084C79F /* secondpicture-AromaticJeeraMurg.png in Resources */,
+				9BD6DAE61365EC4C0084C79F /* secondpicture-AromaticRoastMurg.png in Resources */,
+				9BD6DAE71365EC4C0084C79F /* secondpicture-AromaticRoastMurgh.png in Resources */,
+				9BD6DAE81365EC4C0084C79F /* secondpicture-Fierylambburgers.png in Resources */,
+				9BD6DAE91365EC4C0084C79F /* secondpicture-Fierylambsheekkebabs.png in Resources */,
+				9BD6DAEA1365EC4C0084C79F /* secondpicture-GoanAromaticMoules.png in Resources */,
+				9BD6DAEB1365EC4C0084C79F /* secondpicture-GujiGobiMutter.png in Resources */,
+				9BD6DAEC1365EC4C0084C79F /* secondpicture-GujiQuorn.png in Resources */,
+				9BD6DAED1365EC4C0084C79F /* secondpicture-MumbaiPita.png in Resources */,
+				9BD6DAEE1365EC4C0084C79F /* secondpicture-MumbaiSpaghettiJingla.png in Resources */,
+				9BD6DAEF1365EC4C0084C79F /* secondpicture-MurgMasalawithsummertomatoes.png in Resources */,
+				9BD6DAF01365EC4C0084C79F /* secondpicture-MutterButternutSquash.png in Resources */,
+				9BD6DAF11365EC4C0084C79F /* secondpicture-PanFriedSalmonMasala.png in Resources */,
+				9BD6DAF21365EC4C0084C79F /* secondpicture-QuornMasala.png in Resources */,
+				9BD6DAF31365EC4C0084C79F /* secondpicture-Rajajinglaincoconutmilk.png in Resources */,
+				9BD6DAF41365EC4C0084C79F /* secondpicture-RoastMasalaAloo.png in Resources */,
+				9BD6DAF51365EC4C0084C79F /* secondpicture-Steamedmasalaaloo.png in Resources */,
+				9BD6DAF61365EC4C0084C79F /* secondpicture-Surtimurgwithcoconutmilk.png in Resources */,
+				9BD6DAF71365EC4C0084C79F /* secondpicture-SurtiThaiNoodle.png in Resources */,
+				9BD6DAF81365EC4C0084C79F /* secondpicture-ZestyMachiScallopsPasta.png in Resources */,
+				9BD6DAF91365EC4C0084C79F /* secondpicture-ZingyBhajiaSquidRings.png in Resources */,
+				9BD6DC4113684EE00084C79F /* ProductDetailView.xib in Resources */,
+				9BD6DCBE136865760084C79F /* product1.png in Resources */,
+				9BD6DCE61368696D0084C79F /* product2.png in Resources */,
+				9BD6DCEA13686CDA0084C79F /* product3.png in Resources */,
+				9BD6DD1A13687BD30084C79F /* 57Icon.png in Resources */,
+				9BD6DD1B13687BD30084C79F /* 114Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -191,6 +542,9 @@
 				9BF7F188134A563F00C2A83E /* RootView.m in Sources */,
 				9BF7F1B7134C62CC00C2A83E /* RecipeMenuController.m in Sources */,
 				9B4D329713503A4400A8C76E /* ProductDetailView.m in Sources */,
+				9BD088B4135A0D3400C5B8D8 /* CustomRecipeCell.m in Sources */,
+				9BD0895B1360C05500C5B8D8 /* RecipeDetailController.m in Sources */,
+				9BD089B11364686200C5B8D8 /* SingleRecipe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

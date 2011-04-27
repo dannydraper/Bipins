@@ -13,6 +13,7 @@
 
 @synthesize btn_viewrecipies;
 
+
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 /*
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
@@ -28,11 +29,11 @@
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
 
-	self.title = @"My Title";
+	self.title = @"Bipin's";
 	
 	// Disclosure Button
-	_recipemenuController = [[RecipeMenuController alloc] initWithStyle:UITableViewStylePlain];
-    _productdetailview = [[ProductDetailView alloc] initWithNibName:@"ProductDetailView" bundle:nil];
+	//_recipemenuController = [[RecipeMenuController alloc] initWithStyle:UITableViewStylePlain];
+    //_productdetailview = [[ProductDetailView alloc] initWithNibName:@"ProductDetailView" bundle:nil];
 	
 
 	
@@ -50,18 +51,24 @@
 
 - (IBAction) viewRecipies:(id)sender
 {
+	RecipeMenuController *menucontroller = [[RecipeMenuController alloc] initWithStyle:UITableViewStylePlain];
+	
 	BipinsAppDelegate *delegate = [[UIApplication sharedApplication] delegate];
-	[delegate.navController pushViewController:_recipemenuController animated:YES];
+	[delegate.navController pushViewController:menucontroller animated:YES];
 }
 
 - (IBAction) productDetails:(id)sender
 {
+	
+	
 	BipinsAppDelegate *delegate = [[UIApplication sharedApplication] delegate];
-
-
-	[delegate.navController pushViewController:_productdetailview animated:YES];
-	[delegate.navController popViewControllerAnimated:YES];
-		[delegate.navController popViewControllerAnimated:YES];
+	
+	
+	
+	ProductDetailView *detailview = [[ProductDetailView alloc] initWithNibName:@"ProductDetailView" bundle:nil];
+	[delegate.navController pushViewController:detailview animated:YES];
+	//[delegate.navController popViewControllerAnimated:YES];
+	//	[delegate.navController popViewControllerAnimated:YES];
 }
 
 - (void)didReceiveMemoryWarning {
