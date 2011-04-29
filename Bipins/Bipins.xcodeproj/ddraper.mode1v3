@@ -274,8 +274,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>34</integer>
-									<integer>19</integer>
+									<integer>3</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -299,7 +299,7 @@
 							<real>219</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>1043 164 1330 770 0 0 2560 1578 </string>
+						<string>975 171 1330 770 0 0 2560 1578 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -317,7 +317,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ProductDetailView.m</string>
+								<string>BipinsAppDelegate.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,11 +325,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>ProductDetailView.m</string>
+										<string>BipinsAppDelegate.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>9BD6DD0F136878530084C79F</string>
+										<string>9BD6DD301368BF910084C79F</string>
 										<key>history</key>
 										<array>
 											<string>9BD0894D1360BFFC00C5B8D8</string>
@@ -341,7 +341,6 @@
 											<string>9BD6DC70136859230084C79F</string>
 											<string>9BD6DC73136859230084C79F</string>
 											<string>9BD6DC74136859230084C79F</string>
-											<string>9BD6DCA913685D610084C79F</string>
 											<string>9BD6DCB3136861960084C79F</string>
 											<string>9BD6DCB9136864920084C79F</string>
 											<string>9BD6DCCC136867680084C79F</string>
@@ -352,7 +351,11 @@
 											<string>9BD6DCFE136877CB0084C79F</string>
 											<string>9BD6DCFF136877CB0084C79F</string>
 											<string>9BD6DD00136877CB0084C79F</string>
-											<string>9BD6DD01136877CB0084C79F</string>
+											<string>9BD6DD2413687F420084C79F</string>
+											<string>9BD6DD2513687F420084C79F</string>
+											<string>9BD6DD2613687F420084C79F</string>
+											<string>9BD6DD2713687F420084C79F</string>
+											<string>9BD6DD2813687F420084C79F</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -366,7 +369,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1089, 724}}</string>
 								<key>RubberWindowFrame</key>
-								<string>1043 164 1330 770 0 0 2560 1578 </string>
+								<string>975 171 1330 770 0 0 2560 1578 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -386,7 +389,7 @@
 								<key>Frame</key>
 								<string>{{0, 729}, {1089, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>1043 164 1330 770 0 0 2560 1578 </string>
+								<string>975 171 1330 770 0 0 2560 1578 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -550,13 +553,15 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>9BD6DD311368BF910084C79F</string>
+		<string>9BD6DD321368BF910084C79F</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>9BEB83EA1347614F00CA2388</string>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/ddraper/Documents/Bipins (trunk)/Bipins/Bipins.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>1043 164 1330 770 0 0 2560 1578 </string>
+	<string>975 171 1330 770 0 0 2560 1578 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
