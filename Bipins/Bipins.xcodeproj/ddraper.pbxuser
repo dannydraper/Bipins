@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* BipinsAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 1014}}";
-			sepNavSelRange = "{753, 0}";
-			sepNavVisRange = "{84, 1967}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1027}}";
+			sepNavSelRange = "{254, 2}";
+			sepNavVisRange = "{41, 2012}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* Bipins */ = {
@@ -21,7 +21,7 @@
 		);
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
-		activeBuildConfigurationName = Debug;
+		activeBuildConfigurationName = Release;
 		activeExecutable = 9BEB83E01347613000CA2388 /* Bipins */;
 		activeSDKPreference = iphoneos4.2;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* Bipins */;
@@ -55,10 +55,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 325356059;
-			PBXWorkspaceStateSaveDate = 325356059;
+			PBXPerProjectTemplateStateSaveDate = 325973786;
+			PBXWorkspaceStateSaveDate = 325973786;
 		};
 		perUserProjectItems = {
+			9B74A15E136E01280089FD66 /* PBXTextBookmark */ = 9B74A15E136E01280089FD66 /* PBXTextBookmark */;
+			9B74A15F136E01280089FD66 /* PlistBookmark */ = 9B74A15F136E01280089FD66 /* PlistBookmark */;
+			9B74A160136E01280089FD66 /* PBXTextBookmark */ = 9B74A160136E01280089FD66 /* PBXTextBookmark */;
+			9B74A16B136E06EC0089FD66 /* PBXTextBookmark */ = 9B74A16B136E06EC0089FD66 /* PBXTextBookmark */;
 			9BD0894D1360BFFC00C5B8D8 /* PBXTextBookmark */ = 9BD0894D1360BFFC00C5B8D8 /* PBXTextBookmark */;
 			9BD0895F1360C06500C5B8D8 /* PBXTextBookmark */ = 9BD0895F1360C06500C5B8D8 /* PBXTextBookmark */;
 			9BD0898F13640C9C00C5B8D8 /* PBXBookmark */ = 9BD0898F13640C9C00C5B8D8 /* PBXBookmark */;
@@ -74,16 +78,12 @@
 			9BD6DCF113686D370084C79F /* PBXBookmark */ = 9BD6DCF113686D370084C79F /* PBXBookmark */;
 			9BD6DCF213686D370084C79F /* PBXBookmark */ = 9BD6DCF213686D370084C79F /* PBXBookmark */;
 			9BD6DCF313686D370084C79F /* PBXBookmark */ = 9BD6DCF313686D370084C79F /* PBXBookmark */;
-			9BD6DCF413686D370084C79F /* PBXTextBookmark */ = 9BD6DCF413686D370084C79F /* PBXTextBookmark */;
 			9BD6DCFE136877CB0084C79F /* PBXTextBookmark */ = 9BD6DCFE136877CB0084C79F /* PBXTextBookmark */;
 			9BD6DCFF136877CB0084C79F /* PBXTextBookmark */ = 9BD6DCFF136877CB0084C79F /* PBXTextBookmark */;
 			9BD6DD00136877CB0084C79F /* PBXTextBookmark */ = 9BD6DD00136877CB0084C79F /* PBXTextBookmark */;
 			9BD6DD2413687F420084C79F /* PBXTextBookmark */ = 9BD6DD2413687F420084C79F /* PBXTextBookmark */;
 			9BD6DD2513687F420084C79F /* PBXBookmark */ = 9BD6DD2513687F420084C79F /* PBXBookmark */;
 			9BD6DD2613687F420084C79F /* PBXBookmark */ = 9BD6DD2613687F420084C79F /* PBXBookmark */;
-			9BD6DD2713687F420084C79F /* PlistBookmark */ = 9BD6DD2713687F420084C79F /* PlistBookmark */;
-			9BD6DD2813687F420084C79F /* PBXTextBookmark */ = 9BD6DD2813687F420084C79F /* PBXTextBookmark */;
-			9BD6DD301368BF910084C79F /* PBXTextBookmark */ = 9BD6DD301368BF910084C79F /* PBXTextBookmark */;
 		};
 		sourceControlManager = 9BEB83EC1347614F00CA2388 /* Source Control */;
 		userBuildSettings = {
@@ -110,6 +110,48 @@
 			sepNavVisRange = "{0, 1377}";
 			sepNavWindowFrame = "{{15, 712}, {958, 861}}";
 		};
+	};
+	9B74A15E136E01280089FD66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9BF7F186134A563F00C2A83E /* RootView.m */;
+		name = "RootView.m: 22";
+		rLen = 0;
+		rLoc = 582;
+		rType = 0;
+		vrLen = 1636;
+		vrLoc = 212;
+	};
+	9B74A15F136E01280089FD66 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Bipins-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/ddraper/Documents/Bipins (trunk)/Bipins/Bipins-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	9B74A160136E01280089FD66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BipinsAppDelegate.m */;
+		name = "BipinsAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 2012;
+		vrLoc = 41;
+	};
+	9B74A16B136E06EC0089FD66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BipinsAppDelegate.m */;
+		name = "BipinsAppDelegate.m: 14";
+		rLen = 2;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 2012;
+		vrLoc = 41;
 	};
 	9BD088B2135A0D3400C5B8D8 /* CustomRecipeCell.h */ = {
 		uiCtxt = {
@@ -266,6 +308,7 @@
 	};
 	9BD6DCBA136864920084C79F /* X.h */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
 		name = X.h;
 		path = /System/Library/Frameworks/Tk.framework/Versions/8.5/Headers/X11/X.h;
 		sourceTree = "<absolute>";
@@ -291,16 +334,6 @@
 	9BD6DCF313686D370084C79F /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 9BD6DCE51368696D0084C79F /* product2.png */;
-	};
-	9BD6DCF413686D370084C79F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 9BF7F186134A563F00C2A83E /* RootView.m */;
-		name = "RootView.m: 22";
-		rLen = 0;
-		rLoc = 582;
-		rType = 0;
-		vrLen = 1523;
-		vrLoc = 213;
 	};
 	9BD6DCFE136877CB0084C79F /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -349,38 +382,6 @@
 	9BD6DD2613687F420084C79F /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 9BD6DD1813687BD30084C79F /* 57Icon.png */;
-	};
-	9BD6DD2713687F420084C79F /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Bipins-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			CFBundleIconFiles,
-		);
-		name = "/Users/ddraper/Documents/Bipins (trunk)/Bipins/Bipins-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	9BD6DD2813687F420084C79F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* BipinsAppDelegate.m */;
-		name = "BipinsAppDelegate.m: 18";
-		rLen = 0;
-		rLoc = 306;
-		rType = 0;
-		vrLen = 1777;
-		vrLoc = 0;
-	};
-	9BD6DD301368BF910084C79F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* BipinsAppDelegate.m */;
-		name = "BipinsAppDelegate.m: 33";
-		rLen = 0;
-		rLoc = 753;
-		rType = 0;
-		vrLen = 1967;
-		vrLoc = 84;
 	};
 	9BEB83E01347613000CA2388 /* Bipins */ = {
 		isa = PBXExecutable;
@@ -435,9 +436,9 @@
 	};
 	9BF7F186134A563F00C2A83E /* RootView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1139, 1222}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1157}}";
 			sepNavSelRange = "{582, 0}";
-			sepNavVisRange = "{213, 1523}";
+			sepNavVisRange = "{212, 1636}";
 		};
 	};
 	9BF7F1B5134C62CC00C2A83E /* RecipeMenuController.h */ = {
